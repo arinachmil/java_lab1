@@ -1,1 +1,1 @@
-# java_lab1
+# pyton_lab1
